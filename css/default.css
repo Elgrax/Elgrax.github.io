@@ -20,4 +20,7 @@ header {
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cccccc', endColorstr='#eeeeee',GradientType=0 );
 }
 
-
+.TxtBtn {
+    color: black;
+    text-decoration: none;
+}
